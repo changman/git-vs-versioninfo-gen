@@ -27,7 +27,7 @@ SET COUNT_PATCHES_FROM=fix
 ::                function should read the number of patches in the format of
 ::                  (Default) 1 - Major.Minor.Fix-Stage#-'CommitCount'
 ::                            0 - Major.Minor.Fix-'CommitCount'
-SET USE_PRERELEASE_TAGS=1
+SET USE_PRERELEASE_TAGS=0
 
 :: --------------------
 :CHECK_ARGS
